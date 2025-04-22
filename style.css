@@ -1,0 +1,19 @@
+.nav-link{
+    color: rgb(42, 42, 42);
+}
+.nav-link:active {
+    color: white;
+}
+
+.banner-container{
+    width: 100vw;
+    height: 300px;
+    overflow: hidden;
+}
+
+#banner-header {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
