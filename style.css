@@ -11,6 +11,15 @@
     overflow: hidden;
 }
 
+.card-title{
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+
+}
+#text-destaque{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(4, 52, 52);
+}
 
 #banner-header {
     width: 100%;
