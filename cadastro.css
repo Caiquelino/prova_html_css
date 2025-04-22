@@ -1,0 +1,11 @@
+.form-cadastro{
+    background-color: rgb(213, 212, 212);
+    width: 800px;
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 5%;
+}
+
+.form-check-input{
+    background: #46a6eb;
+}
